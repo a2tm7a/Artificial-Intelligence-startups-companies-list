@@ -1,6 +1,7 @@
 # Artificial-Intelligence-startups-companies-list-
 List of Artificial Intelligence startups companies - (<strong>lists at <a href="http://projectstartups.com">projectstartups.com</a></strong>);
 <ul>
+<li><strong><a href="https://vernacular.ai">Vernacular.ai</a>: </strong>Conversational AI platform for Indian enterprises supporting local languages.</li><br>
 <li><strong><a href="http://www.darktrace.com/">Darktrace</a>: </strong>Darktrace is an artificial intelligence company for cyber security.</li><br>
 <li><strong><a href="http://revl.com">Revl</a>: </strong>The world's smartest action camera</li><br>
 <li><strong><a href="http://www.directly.com">Directly</a>: </strong>Crowd-Powered AI</li><br>
